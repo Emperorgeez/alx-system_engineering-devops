@@ -1,2 +1,2 @@
-$ cd
-$ ln [-T]__ls__ /bin/ls
+#!/bin/bash
+ln -s /bin/ls_ _ ls_ _
