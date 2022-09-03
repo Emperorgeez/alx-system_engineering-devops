@@ -1,1 +1,2 @@
-$ chmod 400 hello
+#!/bin/bash
+$ chmod u+x hello
